@@ -100,7 +100,7 @@
         "addLiquidityUrl": "https://omnidex.finance/add/TLOS/0xfA9343C3897324496A05fC75abeD6bAC29f8A40f"
     },
     {
-        "id": "omnidex-wbtc-tlos",
+        "id": "omnidex-wtlos-wbtc",
         "name": "TLOS-WBTC",
         "token": "TLOS-WBTC LP",
         "tokenDescription": "CHARM",
@@ -113,7 +113,7 @@
         "pricePerFullShare": 1,
         "tvl": 0,
         "oracle": "lps",
-        "oracleId": "omnidex-wbtc-tlos",
+        "oracleId": "omnidex-wtlos-wbtc",
         "oraclePrice": 0,
         "depositsPaused": false,
         "status": "active",
