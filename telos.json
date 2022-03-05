@@ -198,6 +198,56 @@
         "withdrawalFee": "0%",
         "buyTokenUrl": "https://omnidex.finance/swap?outputCurrency=0xd2504a02fabd7e546e41ad39597c377ca8b0e1df",
         "addLiquidityUrl": "https://omnidex.finance/add/TLOS/0xd2504a02fabd7e546e41ad39597c377ca8b0e1df"
+    },
+    {
+        "id": "omnidex-usdc-usdt",
+        "name": "USDC-USDT",
+        "token": "USDC-USDT LP",
+        "tokenDescription": "CHARM",
+        "tokenAddress": "0x8805F519663E47aBd6adbA4303639f69e51fd112",
+        "tokenDecimals": 18,
+        "tokenDescriptionUrl": "#",
+        "earnedToken": "MESOUSDCUSDT",
+        "earnedTokenAddress": "0x50E35ae5184Ea87CA649accFc993Ab9Ab2A554D2",
+        "earnContractAddress": "0x50E35ae5184Ea87CA649accFc993Ab9Ab2A554D2",
+        "pricePerFullShare": 1,
+        "tvl": 0,
+        "oracle": "lps",
+        "oracleId": "omnidex-usdc-usdt",
+        "oraclePrice": 0,
+        "depositsPaused": false,
+        "status": "active",
+        "platform": "OMNIDEX",
+        "fees": {
+            "performance": {
+                "holders": 0.01,
+                "treasury": 0.005,
+                "devs": 0.005,
+                "harvest": 0.005
+            },
+            "withdrawal": 0,
+            "deposit": 0
+        },
+        "assets": [
+            "WTLOS",
+            "CHARM"
+        ],
+        "risks": [
+            "COMPLEXITY_LOW",
+            "BATTLE_TESTED",
+            "IL_LOW",
+            "MCAP_LARGE",
+            "AUDIT",
+            "CONTRACTS_VERIFIED"
+        ],
+        "labels": [
+            "LOW RISK"            
+        ],
+        "stratType": "StratLP",
+        "img": "https://raw.githubusercontent.com/softwarearchaeologist/meso-assets/main/vaults/omnidex-wtlos-charm.png",
+        "withdrawalFee": "0%",
+        "buyTokenUrl": "https://omnidex.finance/swap?inputcurrency=0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b&outputCurrency=0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
+        "addLiquidityUrl": "https://omnidex.finance/add/0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73/0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b"
     }
 
 ]
