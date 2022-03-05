@@ -148,6 +148,56 @@
         "withdrawalFee": "0%",
         "buyTokenUrl": "https://omnidex.finance/swap?outputCurrency=0xf390830df829cf22c53c8840554b98eafc5dcbc2",
         "addLiquidityUrl": "https://omnidex.finance/add/TLOS/0xf390830df829cf22c53c8840554b98eafc5dcbc2"
+    },
+    {
+        "id": "omnidex-wtlos-charm",
+        "name": "TLOS-CHARM",
+        "token": "TLOS-CHARM LP",
+        "tokenDescription": "CHARM",
+        "tokenAddress": "0x933F83735f26e51c61955b4fCA88F13fbd423A0C",
+        "tokenDecimals": 18,
+        "tokenDescriptionUrl": "#",
+        "earnedToken": "MESOTLOSCHARM",
+        "earnedTokenAddress": "0xfE0b80E8FB92769616Ab542E50f0AB7A2FdA7B84",
+        "earnContractAddress": "0xfE0b80E8FB92769616Ab542E50f0AB7A2FdA7B84",
+        "pricePerFullShare": 1,
+        "tvl": 0,
+        "oracle": "lps",
+        "oracleId": "omnidex-wtlos-charm",
+        "oraclePrice": 0,
+        "depositsPaused": false,
+        "status": "active",
+        "platform": "OMNIDEX",
+        "fees": {
+            "performance": {
+                "holders": 0.01,
+                "treasury": 0.005,
+                "devs": 0.005,
+                "harvest": 0.005
+            },
+            "withdrawal": 0,
+            "deposit": 0
+        },
+        "assets": [
+            "WTLOS",
+            "CHARM"
+        ],
+        "risks": [
+            "COMPLEXITY_LOW",
+            "BATTLE_TESTED",
+            "IL_LOW",
+            "MCAP_LARGE",
+            "AUDIT",
+            "CONTRACTS_VERIFIED"
+        ],
+        "labels": [
+            "LOW RISK"            
+        ],
+        "stratType": "StratLP",
+        "img": "https://raw.githubusercontent.com/softwarearchaeologist/meso-assets/main/vaults/omnidex-wbtc-wtlos.png",
+        "withdrawalFee": "0%",
+        "buyTokenUrl": "https://omnidex.finance/swap?outputCurrency=0xd2504a02fabd7e546e41ad39597c377ca8b0e1df",
+        "addLiquidityUrl": "https://omnidex.finance/add/TLOS/0xd2504a02fabd7e546e41ad39597c377ca8b0e1df"
     }
 
 ]
