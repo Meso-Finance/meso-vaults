@@ -104,7 +104,7 @@
         "name": "TLOS-WBTC",
         "token": "TLOS-WBTC LP",
         "tokenDescription": "CHARM",
-        "tokenAddress": "0xd0D08c23d0cFd88457cDD43CaF34c16E3A29e85F",
+        "tokenAddress": "0x427E9A7bb848444a72faA3248c48F3B302429725",
         "tokenDecimals": 18,
         "tokenDescriptionUrl": "#",
         "earnedToken": "MESOBTCTLOS",
