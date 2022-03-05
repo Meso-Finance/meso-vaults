@@ -194,7 +194,7 @@
             "LOW RISK"            
         ],
         "stratType": "StratLP",
-        "img": "https://raw.githubusercontent.com/softwarearchaeologist/meso-assets/main/vaults/omnidex-wbtc-wtlos.png",
+        "img": "https://raw.githubusercontent.com/softwarearchaeologist/meso-assets/main/vaults/omnidex-wtlos-charm.png",
         "withdrawalFee": "0%",
         "buyTokenUrl": "https://omnidex.finance/swap?outputCurrency=0xd2504a02fabd7e546e41ad39597c377ca8b0e1df",
         "addLiquidityUrl": "https://omnidex.finance/add/TLOS/0xd2504a02fabd7e546e41ad39597c377ca8b0e1df"
