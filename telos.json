@@ -229,8 +229,8 @@
             "deposit": 0
         },
         "assets": [
-            "WTLOS",
-            "CHARM"
+            "USDC",
+            "USDT"
         ],
         "risks": [
             "COMPLEXITY_LOW",
