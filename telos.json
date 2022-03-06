@@ -267,7 +267,7 @@
         "oraclePrice": 0,
         "depositsPaused": false,
         "status": "active",
-        "platform": "OMNIDEX",
+        "platform": "ZAPPY",
         "fees": {
             "performance": {
                 "holders": 0.01,
