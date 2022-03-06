@@ -344,7 +344,7 @@
             "LOW RISK"            
         ],
         "stratType": "StratLP",
-        "img": "https://raw.githubusercontent.com/softwarearchaeologist/meso-assets/main/vaults/zappy-zap-wtlos.png",
+        "img": "https://raw.githubusercontent.com/softwarearchaeologist/meso-assets/main/vaults/omnidex-tlos-usdc.png",
         "withdrawalFee": "0%",
         "buyTokenUrl": "https://www.zappy.finance/swap?from=tlos&to=0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b",
         "addLiquidityUrl": "https://www.zappy.finance/liquidity/pool?main=0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b&base=tlos"
