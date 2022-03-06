@@ -348,6 +348,56 @@
         "withdrawalFee": "0%",
         "buyTokenUrl": "https://www.zappy.finance/swap?from=tlos&to=0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b",
         "addLiquidityUrl": "https://www.zappy.finance/liquidity/pool?main=0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b&base=tlos"
+    },
+    {
+        "id": "zappy-wtlos-eth",
+        "name": "WTLOS-ETH",
+        "token": "WTLOS-ETH LP",
+        "tokenDescription": "ZAP",
+        "tokenAddress": "0xA8A2ccbD5B130bd965Dc2C24fc8938AEa7493216",
+        "tokenDecimals": 18,
+        "tokenDescriptionUrl": "#",
+        "earnedToken": "MESOZAPETHTLOS",
+        "earnedTokenAddress": "0x63d3b29406e7B792AE4FD466558313556d625243",
+        "earnContractAddress": "0x63d3b29406e7B792AE4FD466558313556d625243",
+        "pricePerFullShare": 1,
+        "tvl": 0,
+        "oracle": "lps",
+        "oracleId": "zappy-wtlos-eth",
+        "oraclePrice": 0,
+        "depositsPaused": false,
+        "status": "active",
+        "platform": "ZAPPY",
+        "fees": {
+            "performance": {
+                "holders": 0.01,
+                "treasury": 0.005,
+                "devs": 0.005,
+                "harvest": 0.005
+            },
+            "withdrawal": 0,
+            "deposit": 0
+        },
+        "assets": [
+            "ETH",
+            "WTLOS"
+        ],
+        "risks": [
+            "COMPLEXITY_LOW",
+            "BATTLE_TESTED",
+            "IL_LOW",
+            "MCAP_LARGE",
+            "AUDIT",
+            "CONTRACTS_VERIFIED"
+        ],
+        "labels": [
+            "LOW RISK"            
+        ],
+        "stratType": "StratLP",
+        "img": "https://raw.githubusercontent.com/softwarearchaeologist/meso-assets/main/vaults/omnidex-tlos-weth.png",
+        "withdrawalFee": "0%",
+        "buyTokenUrl": "https://www.zappy.finance/swap?from=tlos&to=0xfa9343c3897324496a05fc75abed6bac29f8a40f",
+        "addLiquidityUrl": "https://www.zappy.finance/liquidity/pool?main=0xfa9343c3897324496a05fc75abed6bac29f8a40f&base=tlos"
     }
 
 ]
