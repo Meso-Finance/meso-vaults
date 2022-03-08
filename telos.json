@@ -448,6 +448,56 @@
         "withdrawalFee": "0%",
         "buyTokenUrl": "https://www.zappy.finance/swap?from=tlos&to=0xf390830DF829cf22c53c8840554B98eafC5dCBc2",
         "addLiquidityUrl": "https://www.zappy.finance/liquidity/pool?main=0xf390830DF829cf22c53c8840554B98eafC5dCBc2&base=tlos"
+    },
+    {
+        "id": "zappy-matic-wtlos",
+        "name": "WTLOS-MATIC",
+        "token": "WTLOS-MATIC LP",
+        "tokenDescription": "ZAP",
+        "tokenAddress": "0x06754b2a38782AA5c9B071Dc70A5C49457C7eBD1",
+        "tokenDecimals": 18,
+        "tokenDescriptionUrl": "#",
+        "earnedToken": "MESOZAPMATICLOS",
+        "earnedTokenAddress": "0xa8d7DA8B05299e63AA575A57908a6A75B2E88bF4",
+        "earnContractAddress": "0xa8d7DA8B05299e63AA575A57908a6A75B2E88bF4",
+        "pricePerFullShare": 1,
+        "tvl": 0,
+        "oracle": "lps",
+        "oracleId": "zappy-matic-wtlos",
+        "oraclePrice": 0,
+        "depositsPaused": false,
+        "status": "active",
+        "platform": "ZAPPY",
+        "fees": {
+            "performance": {
+                "holders": 0.01,
+                "treasury": 0.005,
+                "devs": 0.005,
+                "harvest": 0.005
+            },
+            "withdrawal": 0,
+            "deposit": 0
+        },
+        "assets": [
+            "MATIC",
+            "WTLOS"
+        ],
+        "risks": [
+            "COMPLEXITY_LOW",
+            "BATTLE_TESTED",
+            "IL_LOW",
+            "MCAP_LARGE",
+            "AUDIT",
+            "CONTRACTS_VERIFIED"
+        ],
+        "labels": [
+            "LOW RISK"            
+        ],
+        "stratType": "StratLP",
+        "img": "https://raw.githubusercontent.com/softwarearchaeologist/meso-assets/main/vaults/zappy-wtlos-matic.png",
+        "withdrawalFee": "0%",
+        "buyTokenUrl": "https://www.zappy.finance/swap?from=tlos&to=0x332730a4F6E03D9C55829435f10360E13cfA41Ff",
+        "addLiquidityUrl": "https://www.zappy.finance/liquidity/pool?main=0x332730a4F6E03D9C55829435f10360E13cfA41Ff&base=tlos"
     }
 
 ]
