@@ -67,7 +67,7 @@
         "oracleId": "vvs-cro-eth",
         "oraclePrice": 0,
         "depositsPaused": false,
-        "status": "inactive",
+        "status": "archived",
         "platform": "VVS",
         "fees": {
           "performance": {
