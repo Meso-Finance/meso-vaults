@@ -16,7 +16,7 @@
         "oracleId": "vvs-cro-btc",
         "oraclePrice": 0,
         "depositsPaused": false,
-        "status": "active",
+        "status": "archived",
         "platform": "VVS",
         "fees": {
           "performance": {
@@ -118,7 +118,7 @@
         "oracleId":"vvs-vvs-cro",
         "oraclePrice":0,
         "depositsPaused":false,
-        "status":"active",
+        "status":"archived",
         "platform":"VVS",
         "fees": {
           "performance": {
@@ -169,7 +169,7 @@
         "oracleId":"vvs-vvs-usdc",
         "oraclePrice":0,
         "depositsPaused":false,
-        "status":"active",
+        "status":"archived",
         "platform":"VVS",
         "img": "https://raw.githubusercontent.com/softwarearchaeologist/meso-assets/main/vaults/vvs-vvs-usdc.png",
         "assets":[
