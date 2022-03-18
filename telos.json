@@ -116,7 +116,7 @@
         "oracleId": "omnidex-wtlos-wbtc",
         "oraclePrice": 0,
         "depositsPaused": false,
-        "status": "archived",
+        "status": "active",
         "platform": "OMNIDEX",
         "fees": {
             "performance": {
