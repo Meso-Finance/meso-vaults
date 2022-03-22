@@ -250,6 +250,156 @@
         "addLiquidityUrl": "https://omnidex.finance/add/0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73/0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b"
     },
     {
+        "id": "omnidex-karma-wtlos",
+        "name": "KARMA-WTLOS",
+        "token": "KARMA-WTLOS LP",
+        "tokenDescription": "CHARM",
+        "tokenAddress": "0xC72ca4D9Ef358E1d8989e36dF9dFA28378137D20",
+        "tokenDecimals": 18,
+        "tokenDescriptionUrl": "#",
+        "earnedToken": "MESOOMNIKARMATLOS",
+        "earnedTokenAddress": "0x5d79E3cC983904d45CdaAf10455D255d16c621CF",
+        "earnContractAddress": "0x5d79E3cC983904d45CdaAf10455D255d16c621CF",
+        "pricePerFullShare": 1,
+        "tvl": 0,
+        "oracle": "lps",
+        "oracleId": "omnidex-karma-wtlos",
+        "oraclePrice": 0,
+        "depositsPaused": false,
+        "status": "active",
+        "platform": "OMNIDEX",
+        "fees": {
+            "performance": {
+                "holders": 0.01,
+                "treasury": 0.005,
+                "devs": 0.005,
+                "harvest": 0.005
+            },
+            "withdrawal": 0,
+            "deposit": 0.001
+        },
+        "assets": [
+            "KARMA",
+            "WTLOS"
+        ],
+        "risks": [
+            "COMPLEXITY_LOW",
+            "BATTLE_TESTED",
+            "IL_LOW",
+            "MCAP_LARGE",
+            "AUDIT",
+            "CONTRACTS_VERIFIED"
+        ],
+        "labels": [
+            "LOW RISK"            
+        ],
+        "stratType": "StratLP",
+        "img": "https://raw.githubusercontent.com/softwarearchaeologist/meso-assets/main/vaults/omnidex-karma-wtlos.png",
+        "withdrawalFee": "0%",
+        "buyTokenUrl": "https://omnidex.finance/swap?inputcurrency=0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b&outputCurrency=0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
+        "addLiquidityUrl": "https://omnidex.finance/add/0x730d2Fa7dC7642E041bcE231E85b39e9bF4a6a64/TLOS"
+    },
+    {
+        "id": "omnidex-ftm-wtlos",
+        "name": "FTM-WTLOS",
+        "token": "FTM-WTLOS LP",
+        "tokenDescription": "CHARM",
+        "tokenAddress": "0x5b9447EF36abf518cca729bF08E8D72b24a69BDF",
+        "tokenDecimals": 18,
+        "tokenDescriptionUrl": "#",
+        "earnedToken": "MESOOMNIFTMTLOS",
+        "earnedTokenAddress": "0xC7498C23430DC559a789C0E09E8d9Df0020D48a9",
+        "earnContractAddress": "0xC7498C23430DC559a789C0E09E8d9Df0020D48a9",
+        "pricePerFullShare": 1,
+        "tvl": 0,
+        "oracle": "lps",
+        "oracleId": "omnidex-ftm-wtlos",
+        "oraclePrice": 0,
+        "depositsPaused": false,
+        "status": "active",
+        "platform": "OMNIDEX",
+        "fees": {
+            "performance": {
+                "holders": 0.01,
+                "treasury": 0.005,
+                "devs": 0.005,
+                "harvest": 0.005
+            },
+            "withdrawal": 0,
+            "deposit": 0.001
+        },
+        "assets": [
+            "FTM",
+            "WTLOS"
+        ],
+        "risks": [
+            "COMPLEXITY_LOW",
+            "BATTLE_TESTED",
+            "IL_LOW",
+            "MCAP_LARGE",
+            "AUDIT",
+            "CONTRACTS_VERIFIED"
+        ],
+        "labels": [
+            "LOW RISK"            
+        ],
+        "stratType": "StratLP",
+        "img": "https://raw.githubusercontent.com/softwarearchaeologist/meso-assets/main/vaults/omnidex-ftm-wtlos.png",
+        "withdrawalFee": "0%",
+        "buyTokenUrl": "https://omnidex.finance/swap?outputCurrency=0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4",
+        "addLiquidityUrl": "https://omnidex.finance/add/0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4/TLOS"
+    },
+    {
+        "id": "zappy-ftm-wtlos",
+        "name": "FTM-WTLOS",
+        "token": "FTM-WTLOS LP",
+        "tokenDescription": "ZAP",
+        "tokenAddress": "0x62514Ad55D9fbb7eA66a915a1A1E11872F5FAA90",
+        "tokenDecimals": 18,
+        "tokenDescriptionUrl": "#",
+        "earnedToken": "MESOZAPPYFTMTLOS",
+        "earnedTokenAddress": "0x80945B6e0d12a149730c7D5Abd627A9d3ebdEDf4",
+        "earnContractAddress": "0x80945B6e0d12a149730c7D5Abd627A9d3ebdEDf4",
+        "pricePerFullShare": 1,
+        "tvl": 0,
+        "oracle": "lps",
+        "oracleId": "zappy-ftm-wtlos",
+        "oraclePrice": 0,
+        "depositsPaused": false,
+        "status": "active",
+        "platform": "ZAPPY",
+        "fees": {
+            "performance": {
+                "holders": 0.01,
+                "treasury": 0.005,
+                "devs": 0.005,
+                "harvest": 0.005
+            },
+            "withdrawal": 0,
+            "deposit": 0.001
+        },
+        "assets": [
+            "FTM",
+            "WTLOS"
+        ],
+        "risks": [
+            "COMPLEXITY_LOW",
+            "BATTLE_TESTED",
+            "IL_LOW",
+            "MCAP_LARGE",
+            "AUDIT",
+            "CONTRACTS_VERIFIED"
+        ],
+        "labels": [
+            "LOW RISK"            
+        ],
+        "stratType": "StratLP",
+        "img": "https://raw.githubusercontent.com/softwarearchaeologist/meso-assets/main/vaults/omnidex-ftm-wtlos.png",
+        "withdrawalFee": "0%",
+        "buyTokenUrl": "https://www.zappy.finance/swap?from=0xc1be9a4d5d45beeacae296a7bd5fadbfc14602c4&to=tlos",
+        "addLiquidityUrl": "https://www.zappy.finance/liquidity/pool?main=0xc1be9a4d5d45beeacae296a7bd5fadbfc14602c4&base=tlos"
+    },
+    {
         "id": "zappy-zap-wtlos",
         "name": "ZAP-WTLOS",
         "token": "ZAP-WTLOS LP",
