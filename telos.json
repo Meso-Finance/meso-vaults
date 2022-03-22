@@ -300,6 +300,56 @@
         "addLiquidityUrl": "https://omnidex.finance/add/0x730d2Fa7dC7642E041bcE231E85b39e9bF4a6a64/TLOS"
     },
     {
+        "id": "omnidex-ftm-wtlos",
+        "name": "FTM-WTLOS",
+        "token": "FTM-WTLOS LP",
+        "tokenDescription": "CHARM",
+        "tokenAddress": "0x5b9447EF36abf518cca729bF08E8D72b24a69BDF",
+        "tokenDecimals": 18,
+        "tokenDescriptionUrl": "#",
+        "earnedToken": "MESOOMNIFTMTLOS",
+        "earnedTokenAddress": "0xC7498C23430DC559a789C0E09E8d9Df0020D48a9",
+        "earnContractAddress": "0xC7498C23430DC559a789C0E09E8d9Df0020D48a9",
+        "pricePerFullShare": 1,
+        "tvl": 0,
+        "oracle": "lps",
+        "oracleId": "omnidex-ftm-wtlos",
+        "oraclePrice": 0,
+        "depositsPaused": false,
+        "status": "active",
+        "platform": "OMNIDEX",
+        "fees": {
+            "performance": {
+                "holders": 0.01,
+                "treasury": 0.005,
+                "devs": 0.005,
+                "harvest": 0.005
+            },
+            "withdrawal": 0,
+            "deposit": 0.001
+        },
+        "assets": [
+            "FTM",
+            "WTLOS"
+        ],
+        "risks": [
+            "COMPLEXITY_LOW",
+            "BATTLE_TESTED",
+            "IL_LOW",
+            "MCAP_LARGE",
+            "AUDIT",
+            "CONTRACTS_VERIFIED"
+        ],
+        "labels": [
+            "LOW RISK"            
+        ],
+        "stratType": "StratLP",
+        "img": "https://raw.githubusercontent.com/softwarearchaeologist/meso-assets/main/vaults/omnidex-karma-wtlos.png",
+        "withdrawalFee": "0%",
+        "buyTokenUrl": "https://omnidex.finance/swap?inputcurrency=0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b&outputCurrency=0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
+        "addLiquidityUrl": "https://omnidex.finance/add/0x730d2Fa7dC7642E041bcE231E85b39e9bF4a6a64/TLOS"
+    },
+    {
         "id": "zappy-zap-wtlos",
         "name": "ZAP-WTLOS",
         "token": "ZAP-WTLOS LP",
