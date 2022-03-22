@@ -344,10 +344,10 @@
             "LOW RISK"            
         ],
         "stratType": "StratLP",
-        "img": "https://raw.githubusercontent.com/softwarearchaeologist/meso-assets/main/vaults/omnidex-karma-wtlos.png",
+        "img": "https://raw.githubusercontent.com/softwarearchaeologist/meso-assets/main/vaults/omnidex-ftm-wtlos.png",
         "withdrawalFee": "0%",
-        "buyTokenUrl": "https://omnidex.finance/swap?inputcurrency=0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b&outputCurrency=0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
-        "addLiquidityUrl": "https://omnidex.finance/add/0x730d2Fa7dC7642E041bcE231E85b39e9bF4a6a64/TLOS"
+        "buyTokenUrl": "https://omnidex.finance/swap?outputCurrency=0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4",
+        "addLiquidityUrl": "https://omnidex.finance/add/0xC1Be9a4D5D45BeeACAE296a7BD5fADBfc14602C4/TLOS"
     },
     {
         "id": "zappy-zap-wtlos",
