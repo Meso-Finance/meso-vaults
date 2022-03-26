@@ -1,0 +1,53 @@
+[
+    {
+        "id": "valleyswap-usdt-vs",
+        "name": "USDT-VS",
+        "token": "USDT-VS LP",
+        "tokenDescription": "VS",
+        "tokenAddress": "0x9a91Bc3Ed7d0d6422C7599CcdD8C2200bfD4A8eA",
+        "tokenDecimals": 18,
+        "tokenDescriptionUrl": "#",
+        "earnedToken": "MESOUSDTVS",
+        "earnedTokenAddress": "0xC10aA78Cd93B6f96207569A81F74e944265D001F",
+        "earnContractAddress": "0xC10aA78Cd93B6f96207569A81F74e944265D001F",
+        "pricePerFullShare": 1,
+        "tvl": 0,
+        "oracle": "lps",
+        "oracleId": "valleyswap-usdt-vs",
+        "oraclePrice": 0,
+        "depositsPaused": false,
+        "status": "archived",
+        "platform": "VALLEYSWAP",
+        "fees": {
+          "performance": {
+            "holders": 0.01,
+            "treasury": 0.005,
+            "devs": 0.005,
+            "harvest": 0.005
+          },
+          "withdrawal": 0,
+          "deposit": 0
+        },
+        "assets": [
+            "USDT",
+            "VS"
+        ],
+        "risks": [
+            "COMPLEXITY_LOW",
+            "BATTLE_TESTED",
+            "IL_LOW",
+            "MCAP_LARGE",
+            "AUDIT",
+            "CONTRACTS_VERIFIED"
+        ],
+        "labels": [
+          "LOW RISK",
+          "RUGDOC REVIEWED"
+        ], 
+        "stratType": "StratLP",
+        "img": "https://raw.githubusercontent.com/softwarearchaeologist/meso-assets/main/vaults/valleyswap-usdt-vs.png",
+        "withdrawalFee": "0%",
+        "buyTokenUrl": "https://dex.valleyswap.com/#/swap?outputCurrency=0xBC033203796CC2C8C543a5aAe93a9a643320433D",
+        "addLiquidityUrl": "https://dex.valleyswap.com/#/add/0xBC033203796CC2C8C543a5aAe93a9a643320433D/0x6Cb9750a92643382e020eA9a170AbB83Df05F30B"
+    }
+]
