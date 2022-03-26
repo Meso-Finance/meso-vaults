@@ -16,7 +16,7 @@
         "oracleId": "valleyswap-usdt-vs",
         "oraclePrice": 0,
         "depositsPaused": false,
-        "status": "archived",
+        "status": "active",
         "platform": "VALLEYSWAP",
         "fees": {
           "performance": {
